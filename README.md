@@ -1,0 +1,2 @@
+# ExcelCellBorderViewer
+Excelのセル付き罫線がどっちなのかリアルタイムに確認するためのツールです。
