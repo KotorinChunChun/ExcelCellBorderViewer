@@ -1,13 +1,19 @@
 # ExcelCellBorderViewer
 Excelのセル付き罫線がどっちなのかリアルタイムに確認するためのツールです。
-　
+
+![セル付き罫線ビューアー](https://github.com/KotorinChunChun/ExcelCellBorderViewer/assets/55196383/cb5fc158-08ff-4beb-9dbb-ca11924e4484)
+
+
+
+# 注意
+
 このリポジトリは、似たような機能を実装したい開発者への参考資料、VBAの学習用、そしてネタツールとしてお楽しみ頂くために公開しています。
 
 完成されたツールとして使っていただくことは想定していません。
 
 本プログラムを使用したことによる一切の不利益を作者は補償できません。
 
-![セル付き罫線ビューアー](https://github.com/KotorinChunChun/ExcelCellBorderViewer/assets/55196383/cb5fc158-08ff-4beb-9dbb-ca11924e4484)
+
 
 ## 致命的な欠陥について
 
