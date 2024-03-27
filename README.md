@@ -18,6 +18,14 @@ Excelのセル付き罫線がどっちなのかリアルタイムに確認する
 
 
 
+## ダウンロード
+
+binの中に入っているxlamがソースコードを含むアドイン本体です。
+
+[ここをクリック](https://github.com/KotorinChunChun/ExcelCellBorderViewer/raw/main/bin/%E3%82%BB%E3%83%AB%E4%BB%98%E3%81%8D%E7%BD%AB%E7%B7%9A%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BC.xlam)するとダウンロードできます。
+
+
+
 ## 機能
 
 - 選択したセルの周辺のセルに付与された罫線の確認
