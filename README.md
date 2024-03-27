@@ -95,6 +95,6 @@ End Sub
 ## 謝辞
 
 - [筒井.xls様](https://twitter.com/Tsutsui0524)
--     話題を提供していただきました。
+    - 話題を提供していただきました。
 - [furyutei様](https://twitter.com/furyutei)
--     VirtualCell.cls.vbaのGetBorderInfo関数の実装をコピーさせていただきました。
+    - VirtualCell.cls.vbaのGetBorderInfo関数の実装をコピーさせていただきました。
