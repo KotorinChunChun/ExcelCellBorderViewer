@@ -89,3 +89,12 @@ End Sub
 当初、このプロジェクトでは、検査したいセルを1件づつ未使用のセルに `Range.Copy Destination:Range` してから確認を行っており、致命的な問題が含まれていました。
 
 新たに `Range.Value(xlRangeValueXMLSpreadsheet)` を採用したことで書式設定をXML形式で取得し、クリップボードへ頼らずに安定してセルに付与された罫線が特定できるようになりました。
+
+
+
+## 謝辞
+
+- [筒井.xls様](https://twitter.com/Tsutsui0524)
+-     話題を提供していただきました。
+- [furyutei様](https://twitter.com/furyutei)
+-     VirtualCell.cls.vbaのGetBorderInfo関数の実装をコピーさせていただきました。
