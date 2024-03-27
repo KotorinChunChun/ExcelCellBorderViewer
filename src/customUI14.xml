@@ -1,0 +1,15 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon startFromScratch="false">
+		<tabs>
+			<tab id="ChunTab" label="ちゅん">
+				<group id="CellBorderTabGroup1" label="セル付き罫線ビューアー">
+					<button id="CellBorderButton01" label="実行" imageMso="MediaPlayPreview" size="large" onAction="onAction_AddinStart" />
+					<separator id="CellBorderSeparator01" />
+					<button id="CellBorderButton97" label="設定" imageMso="CurrentViewSettings" size="large" onAction="onAction_AddinConfig" />
+					<button id="CellBorderButton98" label="情報を表示" imageMso="About" size="large" onAction="onAction_AddinInfo" />
+					<button id="CellBorderButton99" label="アドインを終了" imageMso="XDPPClose" size="large" onAction="onAction_AddinEnd" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>

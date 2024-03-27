@@ -1,0 +1,13 @@
+﻿{
+ "ExportBinFolder": "..\\backup\\bin\\[YYYYMMDD]_[HHMMSS]_[FILENAME]",
+ "ExportSrcFolder": ".\\..\\src",
+ "ExportBackupBinFolders": [
+ ],
+ "ExportBackupSrcFolders": [
+ ],
+ "IgnoreEmptyModule": true,
+ "HasExtension": true,
+ "StrExtension": ".vba",
+ "IsExportCustomUI": true,
+ "IsBackupProject": false
+}
